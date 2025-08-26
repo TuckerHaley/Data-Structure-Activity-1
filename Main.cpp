@@ -8,7 +8,7 @@ using namespace std;
 
 
 int main() {
-	cout << "Hello world";
-
+	cout << "Hello world" << endl;
+	//added a space here
 
 }
